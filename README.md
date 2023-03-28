@@ -33,15 +33,15 @@ Then one has to select the regions and also should have the iunformation about w
 It is calculated annually and for that say one needs to calculate the DTR FOR 2010 , select the enteries of 2010 in both Tmax and Tmin then take the difference and then average using the inbuild functions in excel.
 
 #CWD:-
-**The code for cwd is given in the colab notebook. 
+**The code for cwd is given in the colab notebook , "CWD.ipynb".
 
 #TN10p and TX10P:-
 For this first select the base period for which you want to calculate the features , we selected 1985-2014 as our base period and then per day values were stored in a excel file using the code then we took the average for the whole year and calculated the value.
-**The code for cwd is given in the colab notebook.
+**The code for cwd is given in the colab notebook , "1985-2014.ipynb".
 
 #Final prediction:-
 
 We then filled the excel file with the 4 features of a specific location and the 5th feature was whether there was flood in that location in that year or not thats why we calculated all the features annually.
 Now there are 4 input features and 1 output feature.
 Apply the binary classification models like logistic regression , random forest , XGBoost Classifier , etc,.
-**We have uploaded a notebook where we have made the predicitons using different models and also calculated the p-values and correlations.
+**We have uploaded a notebook where we have made the predicitons using different models and also calculated the p-values and correlations in "flood_prediction.ipynb".
