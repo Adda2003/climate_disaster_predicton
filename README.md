@@ -5,8 +5,7 @@ We used deep learning methods to predict disasters.
 #AIM and brief work TIMELINE:-
 
 The project aims to predict climate-induced disasters and floods using machine learning and deep learning models. 
-We attempted to obtain the similar parameters used in the paper and apply them to the Indian scenario in the state of Kerala. Since the dataset was maximum for Kerala,
-it was preferred. 
+We attempted to obtain the similar parameters used in the paper and apply them to the Indian scenario in the state of Kerala. Since the dataset was maximum for Kerala,it was preferred. 
 Although with sufficient training data, any region of India could be used. 
 
 #IMPLEMENTATION:-
